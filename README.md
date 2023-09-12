@@ -15,16 +15,16 @@ I  used Python and SQLAlchemy to do a basic climate analysis and data exploratio
 * Linked Python to the database by creating a SQLAlchemy session.
 * Performed a precipitation analysis and then a station analysis by completing the steps in the following two subsections.
 
-1. Found the most recent date in the dataset.
-2. Using that date, got the previous 12 months of precipitation data by querying the previous 12 months of data.
-3. Selected  only the `date` and `prcp` values.
-4. Load the query results into a Pandas DataFrame. Explicitly set the column names.
-5. Sort the DataFrame values by "date".
-6. Plot the results by using the DataFrame plot method, as the following image shows:
+*  Found the most recent date in the dataset.
+*  Using that date, got the previous 12 months of precipitation data by querying the previous 12 months of data.
+*  Selected  only the `date` and `prcp` values.
+*  Load the query results into a Pandas DataFrame. Explicitly set the column names.
+*  Sort the DataFrame values by "date".
+*  Plot the results by using the DataFrame plot method, as the following image shows:
    
     ![fig.2.png](images/fig.2.png)
 
-8. Use Pandas to print the summary statistics for the precipitation data.  
+*  Used Pandas to print the summary statistics for the precipitation data.  
 
 ### Station Analysis
 
