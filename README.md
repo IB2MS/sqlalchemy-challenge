@@ -2,7 +2,7 @@
 
 # sqlalchemy-challenge
 
-![fig1.png](Images/fig1.jng)
+![fig1.jpg](Images/fig1.jng)
 
 I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, i decided to do a climate analysis about the area. 
 The steps that I took to accomplish this task:
