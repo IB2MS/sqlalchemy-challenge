@@ -2,7 +2,7 @@
 
 # sqlalchemy-challenge
 
-![fig1.jpg](Images/fig1.jng)
+![fig1.jpg](images/fig1.jng)
 
 I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, i decided to do a climate analysis about the area. 
 The steps that I took to accomplish this task:
@@ -22,7 +22,7 @@ I  used Python and SQLAlchemy to do a basic climate analysis and data exploratio
 4. Load the query results into a Pandas DataFrame. Explicitly set the column names.
 5. Sort the DataFrame values by "date".
 6. Plot the results by using the DataFrame plot method, as the following image shows:
-    ![fig2](Images/fig2.png)
+    ![fig2](images/fig2.png)
 
 7. Use Pandas to print the summary statistics for the precipitation data.  
 
@@ -32,7 +32,7 @@ I  used Python and SQLAlchemy to do a basic climate analysis and data exploratio
    *  Designed a query to calculate the total number of stations.
    *  Plot the results as a histogram with `bins=12`, as the following image shows: 
 
-![fig3](Images/fig3.png)
+![fig3](images/fig3.png)
 
 ## Part 2: Design Your Climate App
 
